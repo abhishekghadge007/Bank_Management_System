@@ -44,6 +44,5 @@ Required Tables:
 4. Update database credentials.
 5. Run `Main.java`.
 
-## Author
-
+## Developed By
 **Abhishek Ghadge**
